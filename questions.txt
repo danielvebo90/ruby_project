@@ -1,0 +1,6 @@
+Can classes be nested(yes/no) ?
+yes
+Which with words can does it define a method ?
+def
+How do you get a input from the console ?
+gets
